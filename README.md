@@ -1,0 +1,1 @@
+This page features a JS login system. The inputs have to follow a certain regex. If you create an account, the login data gets stored in your browser's local storage since there is no database linked. 
